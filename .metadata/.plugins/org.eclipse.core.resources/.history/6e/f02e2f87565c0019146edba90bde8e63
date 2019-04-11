@@ -1,0 +1,5 @@
+package com.sundogsoftware.spark.SparkScala
+
+object LearningScala4 extends App {
+  
+}
